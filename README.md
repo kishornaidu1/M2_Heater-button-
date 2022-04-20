@@ -1,10 +1,4 @@
-# EMBD-C
 # Activity 1
-
-# Embedded Activity
-
-[![CI](https://github.com/athulya43/EMBD-C/actions/workflows/main.yml/badge.svg)](https://github.com/athulya43/EMBD-C/actions/workflows/main.yml)
-[![Cppcheck](https://github.com/athulya43/EMBD-C/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/athulya43/EMBD-C/actions/workflows/Cppcheck.yml)
 
 1.To check the status of the Button Sensor i.e whether a passenger have been seated or not.
 
