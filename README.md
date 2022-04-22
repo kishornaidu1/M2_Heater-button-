@@ -1,6 +1,9 @@
 # Badges
 [![C/C++ CI](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/c-cpp.yml)
+
 [![Cppcheck Analyse](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/Cppcheck_Analyse.yml/badge.svg)](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/Cppcheck_Analyse.yml)
+
+[![Build-Linux](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/Build%20on%20Linux.yml)
 
 
 # Activity 1
