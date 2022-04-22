@@ -1,3 +1,6 @@
+# Badges
+[![C/C++ CI](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/c-cpp.yml)
+
 # Activity 1
 
 1.To check the status of the Button Sensor i.e whether a passenger have been seated or not.
