@@ -1,5 +1,7 @@
 # Badges
 [![C/C++ CI](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/c-cpp.yml)
+[![Cppcheck Analyse](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/Cppcheck_Analyse.yml/badge.svg)](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/Cppcheck_Analyse.yml)
+
 
 # Activity 1
 
