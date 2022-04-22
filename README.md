@@ -9,6 +9,8 @@
 
 ![Code Grade](https://api.codiga.io/project/33045/status/svg)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/df9ab864c5da4b7398b333eb8b86e111)](https://www.codacy.com/gh/kishornaidu1/M2_Heater-button-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kishornaidu1/M2_Heater-button-&amp;utm_campaign=Badge_Grade)
+
 
 # Activity 1
 
