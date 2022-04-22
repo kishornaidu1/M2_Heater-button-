@@ -5,6 +5,10 @@
 
 [![Build-Linux](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/kishornaidu1/M2_Heater-button-/actions/workflows/Build%20on%20Linux.yml)
 
+![Code Quality Score](https://api.codiga.io/project/33045/score/svg)
+
+![Code Grade](https://api.codiga.io/project/33045/status/svg)
+
 
 # Activity 1
 
